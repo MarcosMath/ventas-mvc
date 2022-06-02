@@ -1,6 +1,6 @@
 using System;
 
-namespace Ventas.Entidades;
+namespace Ventas.Core.Entidades;
 
 public class Cateogria
 {

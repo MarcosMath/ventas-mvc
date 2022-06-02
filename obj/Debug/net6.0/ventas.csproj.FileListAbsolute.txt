@@ -24,3 +24,7 @@ E:\proyectos\ventas\obj\Debug\net6.0\refint\ventas.dll
 E:\proyectos\ventas\obj\Debug\net6.0\ventas.pdb
 E:\proyectos\ventas\obj\Debug\net6.0\ventas.genruntimeconfig.cache
 E:\proyectos\ventas\obj\Debug\net6.0\ref\ventas.dll
+E:\proyectos\ventas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\proyectos\ventas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\proyectos\ventas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\proyectos\ventas\obj\Debug\net6.0\ventas.csproj.CopyComplete
