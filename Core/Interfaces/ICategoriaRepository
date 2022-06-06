@@ -1,0 +1,9 @@
+using System;
+using Ventas.Core.Entidades;
+
+namespace Ventas.Core.Interfaces;
+
+public interface ICategoriaRepository
+{
+    public List<Cateogria> GetAll();
+}
