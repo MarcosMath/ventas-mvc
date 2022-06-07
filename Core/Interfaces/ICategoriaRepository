@@ -1,9 +1,15 @@
 using System;
+using Ventas.Core;
 using Ventas.Core.Entidades;
 
 namespace Ventas.Core.Interfaces;
 
 public interface ICategoriaRepository
 {
-    public List<Cateogria> GetAll();
+    public IEnumerable<Categoria> GetAll();
+    public Categoria GetById(int id);
+    public void Insertar(Categoria categoria);
+    public void Editar(Categoria cateogria);
+    public void Eliminar(int id);
+    public void Guardar();
 }
